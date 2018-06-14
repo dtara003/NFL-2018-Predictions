@@ -4,6 +4,8 @@
 #### ALL CODE HAS BEEN DERIVED FROM A TUTORIAL ON SCIKIT-LEARN WRITTEN BY PIUSH VAISH, FOUND HERE:
 #### http://adataanalyst.com/machine-learning/predicting-nba-winners-decision-trees-random-forests-scikit-learn/
 
+Note: a sample subset of data was not included. The full dataset is the only one included. The reason for this is that accurate results cannot be obtained for the NFL prediction using just a year or two of data. That being said, the data is not large enough to cause major delays. The entirety of the program should finish outputting results in roughly 2 - 3 minutes maximum.
+
 ## Technology
 Python
 
